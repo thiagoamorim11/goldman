@@ -1,0 +1,35 @@
+html {
+    background-color: rgb(168, 245, 255);
+}
+
+.bordaTopo {
+    border: 2px;
+    border-radius: 2px;
+    border-style: solid;
+    margin-right: auto;
+}
+
+.img {
+    padding: 8px 16px 8px 16px;
+}
+
+.topo {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    padding: 0 16px 0 0;
+}
+
+.topo1 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    padding: 0 8px 8px 16px;
+}
+
+.rodape {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    padding: 8px 8px 8px 16px;
+    text-align: center;
+    background-color: black;
+    color: white;
+}
